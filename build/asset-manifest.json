@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/project-game-tuxi/static/css/main.890ea209.chunk.css",
+    "main.js": "/project-game-tuxi/static/js/main.6cda8849.chunk.js",
+    "main.js.map": "/project-game-tuxi/static/js/main.6cda8849.chunk.js.map",
+    "runtime-main.js": "/project-game-tuxi/static/js/runtime-main.61a84116.js",
+    "runtime-main.js.map": "/project-game-tuxi/static/js/runtime-main.61a84116.js.map",
+    "static/js/2.ebfa0dc6.chunk.js": "/project-game-tuxi/static/js/2.ebfa0dc6.chunk.js",
+    "static/js/2.ebfa0dc6.chunk.js.map": "/project-game-tuxi/static/js/2.ebfa0dc6.chunk.js.map",
+    "index.html": "/project-game-tuxi/index.html",
+    "precache-manifest.3d7d1e24c2608336ebc2bd80db7a620d.js": "/project-game-tuxi/precache-manifest.3d7d1e24c2608336ebc2bd80db7a620d.js",
+    "service-worker.js": "/project-game-tuxi/service-worker.js",
+    "static/css/main.890ea209.chunk.css.map": "/project-game-tuxi/static/css/main.890ea209.chunk.css.map",
+    "static/js/2.ebfa0dc6.chunk.js.LICENSE.txt": "/project-game-tuxi/static/js/2.ebfa0dc6.chunk.js.LICENSE.txt",
+    "static/media/BaiTapOanTuXi.css": "/project-game-tuxi/static/media/bgGameOanTuXi.f0bb0ef5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.61a84116.js",
+    "static/js/2.ebfa0dc6.chunk.js",
+    "static/css/main.890ea209.chunk.css",
+    "static/js/main.6cda8849.chunk.js"
+  ]
+}
